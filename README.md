@@ -5,5 +5,7 @@ npm run build   (/dist)
 
 Arquitetura MVC:
 src/models        -> acesso à API REST e ao localStorage (dados)
+
 src/controllers   -> hooks com estado e regras (useCadastroController, useAuth)
+
 src/views         -> componentes e páginas (somente renderização)
