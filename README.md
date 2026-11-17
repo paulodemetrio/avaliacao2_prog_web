@@ -1,6 +1,6 @@
 ## Livraria BRAIN: 2ª avaliação (React + Vite)
-npm install
-npm run dev     (http://localhost:5173)
+npm install //
+npm run dev     (http://localhost:5173) //
 npm run build   (/dist)
 
 Arquitetura MVC:
